@@ -1,9 +1,4 @@
-mijn_dictionary = {
-    "Voornaam" : "Harry",
-    "Achternaam" : "van Winkel",
-    "Geboortedatum" : "27-3-1939"
-}
-print(mijn_dictionary)
-print(mijn_dictionary["Voornaam"])
-mijn_dictionary.update({"Voornaam" : "Henrikus"})
-print(mijn_dictionary)
+A = 10
+B = 2
+C = A / B
+print(C)
