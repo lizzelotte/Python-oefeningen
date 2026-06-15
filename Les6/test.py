@@ -4,3 +4,6 @@ mijn_dictionary = {
     "Geboortedatum" : "27-3-1939"
 }
 print(mijn_dictionary)
+print(mijn_dictionary["Voornaam"])
+mijn_dictionary.update({"Voornaam" : "Henrikus"})
+print(mijn_dictionary)
